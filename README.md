@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devanshu Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **FroentEnd**
+- 🌱 I’m currently learning **FrotEnd**
 
 - 📫 How to reach me **devanshupatil693@gmail.com**
 
