@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Sprint Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/devanshupatil/C,https://github.com/devanshupatil/UDP-Chat-Applicationlipboard-Sync](https://github.com/devanshupatil/C,https://github.com/devanshupatil/UDP-Chat-Applicationlipboard-Sync)
-
 - 📫 How to reach me **devanshupatil692@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
