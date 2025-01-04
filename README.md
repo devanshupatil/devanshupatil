@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshupatil&label=Profile%20views&color=0e75b6&style=flat" alt="devanshupatil" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js & Express.js**
 
 - 📫 How to reach me **devanshupatil692@gmail.com**
 
