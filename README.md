@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Marriage Biodata Builder](https://marriage-biodata-builder.vercel.app/)
 
-- 📫 How to reach me **devanshupatil692@gmail.com**
+- 📫 How to reach me **devanshupatil110105@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
