@@ -32,7 +32,7 @@
 
 ## 🚀 About Me
 
-I’m a passionate and versatile **Full Stack Developer** from **Buldhana, Maharashtra, India**. I build robust web applications with **Java**, **Spring Boot**, **React**, **Node.js**, and modern databases like **PostgreSQL** and **MongoDB**.
+I'm a passionate and versatile **Full Stack Developer** from **Buldhana, Maharashtra, India**. I build robust web applications with **Java**, **Spring Boot**, **React**, **Node.js**, and modern databases like **PostgreSQL** and **MongoDB**.
 
 - 🎓 **B.Sc.** @ Sant Gadge Baba Amravati University (**2023 – 2026**)
 - 💼 Focus: **Java + Spring Boot**, **React**, **Node/Express**, **REST APIs**
@@ -47,6 +47,16 @@ I’m a passionate and versatile **Full Stack Developer** from **Buldhana, Mahar
 ---
 
 ## 🔭 Projects
+
+### ⏱️ TimeStream — Developer Activity Tracker (**04/2026**)
+Auto-tracks coding sessions, browser activity & AI tool usage into a local dashboard.
+
+- 🔗 GitHub: **https://github.com/devanshupatil/TimeStream**
+- 🧰 Tech: **Electron, Node.js, SQLite, chokidar, Vanilla JS, Tailwind CSS**
+- 🌐 Built **Chrome + Firefox extensions** that silently log GitHub, YouTube, AI tools & research tabs
+- 🤖 Integrates with **Claude CLI** (JSONL file watcher) and **OpenCode** (SQLite reader) to import AI coding sessions
+- 📊 Features: Timeline, Analytics Dashboard, AI Learnings view, full-text Search
+- 🔒 **100% local** — no cloud, no accounts, no tracking
 
 ### 📚 Online Learning Platform — Full Stack Web Application (**09/2025 – 12/2025**)
 Role-based dashboards + AI-powered assessment automation.
@@ -101,12 +111,14 @@ Full-featured e-commerce platform with an admin dashboard.
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
 ### Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -133,7 +145,7 @@ I use LLMs to **speed up development**, **automate content extraction**, and bui
 - 🧾 **Document understanding**: parse PDFs/images to extract questions and key information
 - 🧠 **Automation**: generate structured JSON, validations, and template outputs
 - 🧰 **Engineering productivity**: brainstorming architecture, writing tests, refactoring code
-- 🔎 **Research**: quick comparisons of libraries/approaches with reliable sources
+- 🔍 **Research**: quick comparisons of libraries/approaches with reliable sources
 
 ---
 
@@ -156,7 +168,7 @@ I use LLMs to **speed up development**, **automate content extraction**, and bui
 
 ## 🐍 Contribution Snake
 
-> If you don’t see this animation, enable the **snake** GitHub Action in your profile repo.
+> If you don't see this animation, enable the **snake** GitHub Action in your profile repo.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devanshupatil/devanshupatil/output/snake.svg" alt="Snake animation" />
