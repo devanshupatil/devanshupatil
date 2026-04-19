@@ -57,6 +57,10 @@ Auto-tracks coding sessions, browser activity & AI tool usage into a local dashb
 - 🤖 Integrates with **Claude CLI** (JSONL file watcher) and **OpenCode** (SQLite reader) to import AI coding sessions
 - 📊 Features: Timeline, Analytics Dashboard, AI Learnings view, full-text Search
 - 🔒 **100% local** — no cloud, no accounts, no tracking
+- ⚙️ **CI/CD** via GitHub Actions — auto-validates, packages extensions & creates releases on version tags
+
+[![CI](https://github.com/devanshupatil/TimeStream/actions/workflows/ci.yml/badge.svg)](https://github.com/devanshupatil/TimeStream/actions/workflows/ci.yml)
+[![Release](https://github.com/devanshupatil/TimeStream/actions/workflows/release.yml/badge.svg)](https://github.com/devanshupatil/TimeStream/actions/workflows/release.yml)
 
 ### 📚 Online Learning Platform — Full Stack Web Application (**09/2025 – 12/2025**)
 Role-based dashboards + AI-powered assessment automation.
@@ -119,6 +123,7 @@ Full-featured e-commerce platform with an admin dashboard.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
