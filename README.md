@@ -51,7 +51,7 @@ I'm a passionate and versatile **Full Stack Developer** from **Buldhana, Maharas
 ### ⏱️ TimeStream — Developer Activity Tracker (**04/2026**)
 Auto-tracks coding sessions, browser activity & AI tool usage into a local dashboard.
 
-- 🔗 GitHub: **https://github.com/devanshupatil/TimeStream**
+- 🔗 Landing Page: **[https://timestream.netlify.app/]**
 - 🧰 Tech: **Electron, Node.js, SQLite, chokidar, Vanilla JS, Tailwind CSS**
 - 🌐 Built **Chrome + Firefox extensions** that silently log GitHub, YouTube, AI tools & research tabs
 - 🤖 Integrates with **Claude CLI** (JSONL file watcher) and **OpenCode** (SQLite reader) to import AI coding sessions
