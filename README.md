@@ -32,7 +32,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate and versatile **Full Stack Developer** from **Buldhana, Maharashtra, India**. I build robust web applications with **Java**, **Spring Boot**, **React**, **Node.js**, and modern databases like **PostgreSQL** and **MongoDB**.
+I’m a passionate and versatile **Full Stack Developer** from **Buldhana, Maharashtra, India**. I build robust web applications with **Java**, **Spring Boot**, **React**, **Node.js**, and modern databases like **PostgreSQL** and **MongoDB**.
 
 - 🎓 **B.Sc.** @ Sant Gadge Baba Amravati University (**2023 – 2026**)
 - 💼 Focus: **Java + Spring Boot**, **React**, **Node/Express**, **REST APIs**
@@ -83,7 +83,7 @@ Lightweight web app to create and download marriage biodata as PDF.
 ### 🛒 SagarShop — E-commerce Web App with Admin Panel (**06/2025 – 07/2025**)
 Full-featured e-commerce platform with an admin dashboard.
 
-- 🔗 Live: **https://sagarshop.vercel.app**
+- 🔗 Live: **https://sagar-shop.netlify.app**
 - 🧰 Tech: **React, Node.js, Supabase (PostgreSQL), Tailwind CSS**
 - 🧾 Product / order / customer management via REST APIs
 - 🚀 Deployed on **Vercel** with responsive UI
@@ -99,6 +99,7 @@ Full-featured e-commerce platform with an admin dashboard.
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 ### Frameworks & Libraries
@@ -108,6 +109,8 @@ Full-featured e-commerce platform with an admin dashboard.
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
 </p>
 
 ### Databases
@@ -115,21 +118,20 @@ Full-featured e-commerce platform with an admin dashboard.
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
 ### Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 
 ---
@@ -150,7 +152,7 @@ I use LLMs to **speed up development**, **automate content extraction**, and bui
 - 🧾 **Document understanding**: parse PDFs/images to extract questions and key information
 - 🧠 **Automation**: generate structured JSON, validations, and template outputs
 - 🧰 **Engineering productivity**: brainstorming architecture, writing tests, refactoring code
-- 🔍 **Research**: quick comparisons of libraries/approaches with reliable sources
+- 🔎 **Research**: quick comparisons of libraries/approaches with reliable sources
 
 ---
 
@@ -173,7 +175,7 @@ I use LLMs to **speed up development**, **automate content extraction**, and bui
 
 ## 🐍 Contribution Snake
 
-> If you don't see this animation, enable the **snake** GitHub Action in your profile repo.
+> If you don’t see this animation, enable the **snake** GitHub Action in your profile repo.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devanshupatil/devanshupatil/output/snake.svg" alt="Snake animation" />
@@ -207,7 +209,7 @@ I use LLMs to **speed up development**, **automate content extraction**, and bui
   <a href="https://github.com/devanshupatil">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://drive.google.com/file/d/1F79tZb20TFk0pEPNT-8CHCjz7AYZKgNq/view?usp=drive_link" target="_blank" rel="noreferrer">
+  <a href="https://drive.google.com/file/d/1DEFWln1Dg-Lc98RS_9LQPCYdnmUgKGlw/view?usp=drive_link" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/%F0%9F%93%84_Resume-View_PDF-success?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 </div>
